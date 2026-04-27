@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=250&section=header&text=Nikhil%20Yadav&fontSize=72&fontColor=64ffda&fontAlignY=40&desc=ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=62&descColor=8892b0&animation=fadeIn&stroke=64ffda&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=250&section=header&text=Nikhil%20Yadav&fontSize=72&fontColor=64ffda&fontAlignY=40&desc=Turning%20Coffee%20into%20Code%20%E2%98%95%20%E2%80%A2%20Models%20into%20Magic%20%F0%9F%AA%84%20%E2%80%A2%20Ideas%20into%20Reality%20%F0%9F%9A%80&descAlignY=62&descColor=8892b0&animation=fadeIn&stroke=64ffda&strokeWidth=1" width="100%"/>
 
 <br/>
 
@@ -13,6 +13,8 @@
 ---
 
 ## 🧠 `whoami`
+
+<br/>
 
 <table>
 <tr>
