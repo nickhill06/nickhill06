@@ -135,11 +135,13 @@ public class Nikhil {
 
 <div align="center">
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+> *"My APIs respond faster than my brain does on a Monday morning."* ☕
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"I debug my code more often than I debug my own life decisions."* 🐛
 
-> *"Simplicity is the soul of efficiency."* — Austin Freeman
+> *"My Spring Boot app starts up faster than I do in the morning."* 🌱
+
+> *"404: Motivation Not Found, but the server's still running perfectly."* 🚀
 
 </div>
 
