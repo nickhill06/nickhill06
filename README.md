@@ -1,64 +1,79 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=250&section=header&text=Nikhil%20Yadav&fontSize=72&fontColor=64ffda&fontAlignY=40&desc=Java%20Backend%20Developer%20%E2%98%95%20%E2%80%A2%20Spring%20Boot%20%F0%9F%8C%B1%20%E2%80%A2%20Building%20Scalable%20Systems%20%F0%9F%9A%80&descAlignY=62&descColor=8892b0&animation=fadeIn&stroke=64ffda&strokeWidth=1" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:145a8c,100:0d1117&height=280&section=header&text=Nikhil%20Yadav&fontSize=80&fontColor=64ffda&fontAlignY=35&desc=Java%20Backend%20Developer%20%E2%98%95%20%20%E2%80%A2%20%20Spring%20Boot%20Architect%20%F0%9F%8C%B1%20%20%E2%80%A2%20%20ML-Curious%20%F0%9F%A4%96&descAlignY=52&descSize=19&descColor=a8b2d1&animation=twinkling&stroke=64ffda&strokeWidth=1"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=System.out.println(%22Hello+World!+I'm+Nikhil%22);public+class+BackendDeveloper+%7B%7D;while(learning)%7B+buildAPIs();+%7D;%40SpringBootApplication+%23+shipping+clean+code+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=750&lines=%40RestController+public+class+Nikhil+%7B%7D;private+String+stack+%3D+%22Java+%2B+Spring+Boot%22%3B;while+(true)+%7B+build()%3B+learn()%3B+%7D;%2F%2F+crafting+scalable+backend+systems+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
+
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-blueviolet?style=for-the-badge&labelColor=0d1117&color=112240" />&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nickhill06&style=for-the-badge&color=64ffda&labelColor=0d1117&label=" />
 
 </div>
 
 ---
 
-## 🧠 `who am i`
+## 🧠 `whoami`
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ The Developer
+```java
+public class Nikhil {
 
+    private String role      = "Java Backend Developer";
+    private String[] stack   = {"Java", "Spring Boot"};
+    private String location  = "India 🇮🇳";
+    private String bonusSkill = "Machine Learning";
+    private String motto     = "Build robust. Ship clean.";
+
+    public static void main(String[] args) {
+        System.out.println("Turning coffee ☕ into APIs 🔗");
+    }
+}
 ```
-
-┌─────────────────────────────────────────┐
-│                                         │
-│   🧑‍💻  Nikhil Yadav                      │
-│   📍  India                             │
-│   🎯  Java Backend Developer            │
-│   📧  2k23.csds2310896@gmail.com        │
-│                                         │
-│   "Build robust. Ship clean."           │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-I'm a **Java backend developer** who loves designing clean APIs, building scalable services with **Spring Boot**, and writing solid, maintainable code. I also bring **Machine Learning** into the mix as an added skill — using it to build smarter features on top of solid backend systems.
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### 🚀 Currently
+### 🎯 Focus Right Now
 
-```yaml
-status:     "Building & Shipping Backends"
-focus:
-  - "☕ Java (Core to Advanced)"
-  - "🌱 Spring Boot / Spring Framework"
-  - "🌐 REST API Design"
-  - "🗄️ Database Design & Optimization"
-skills_plus: "🤖 Machine Learning"
-open_to:    "Collaborations & Projects"
-fun_fact:   "My APIs respond faster
-             than my brain does 😅"
-```
+<br/>
+
+&nbsp;&nbsp;☕&nbsp;&nbsp;**Java** — Core to Advanced  
+&nbsp;&nbsp;🌱&nbsp;&nbsp;**Spring / Spring Boot** — REST APIs & microservices  
+&nbsp;&nbsp;🗄️&nbsp;&nbsp;**Database Design** — SQL & NoSQL  
+&nbsp;&nbsp;🔐&nbsp;&nbsp;**Spring Security** — auth & authorization  
+&nbsp;&nbsp;🤖&nbsp;&nbsp;**Machine Learning** — added skillset
+
+<br/>
+
+> 💬 *"I don't just write backend code — I design systems that scale."*
 
 </td>
 </tr>
 </table>
+
+---
+
+## ☕ Java & Spring Boot Journey
+
+<div align="center">
+
+| Stage | Skills |
+|:-----:|:-------|
+| 🟢 **Foundations** | Core Java · OOP · Collections · Exception Handling |
+| 🔵 **Intermediate** | Multithreading · JDBC · Streams & Lambdas |
+| 🟣 **Framework** | Spring Core · Spring MVC · Dependency Injection |
+| 🟡 **Boot & Beyond** | Spring Boot · REST APIs · Spring Data JPA |
+| 🔴 **Production-Ready** | Spring Security · Exception Handling in APIs · Deployment |
+
+</div>
 
 ---
 
@@ -77,11 +92,9 @@ fun_fact:   "My APIs respond faster
 ![MySQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=64b5f6&color=112240)
 ![MongoDB](https://img.shields.io/badge/NoSQL-0d1117?style=for-the-badge&logo=mongodb&logoColor=4db33d&color=112240)
 
-### 🌐 Additional Languages & Backend
+### 🌐 Additional Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=64ffda&labelColor=0d1117&color=112240)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=64b5f6&labelColor=0d1117&color=112240)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44b78b&color=112240)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&color=112240)
 
 ### 🤖 ML / AI — Added Skillset
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f7931e&color=112240)
@@ -94,7 +107,6 @@ fun_fact:   "My APIs respond faster
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0d1117?style=for-the-badge&logo=intellijidea&logoColor=000000&color=112240)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032&color=112240)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff6c37&color=112240)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fcc624&color=112240)
 
 </div>
 
@@ -140,20 +152,18 @@ Security & Deployment  ──▶  Building Production-Ready Backend Systems
 
 ---
 
-## 🌐 Find Me Here
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nikhil-yadav-a8abbb2a6/)
-[![GitHub](https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/nickhill06)
-[![Gmail](https://img.shields.io/badge/Gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:2k23.csds2310896@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/nikhil-yadav-a8abbb2a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=64ffda&labelColor=0d1117)](https://github.com/nickhill06)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:2k23.csds2310896@gmail.com)
+
+<br/>
+
+### *"Clean code, solid backend, always learning."* ☕🌱
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:145a8c,60:0a3d62,100:0d1117&height=150&section=footer"/>
